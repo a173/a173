@@ -30,7 +30,7 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/acaryn/ft_services)](https://github.com/a173/ft_services)
 
 ### Philosophers - for multithreading
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/acaryn/philosophers)](https://github.com/a173/philosophers)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/acaryn/42cursus-philosophers)](https://github.com/a173/philosophers)
 
 ### CPP_modules
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/acaryn/cpp-module-08)](https://github.com/a173/CPP_modules)
